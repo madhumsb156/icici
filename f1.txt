@@ -1,3 +1,7 @@
 this my assignment
 login feature added
 Feature A change
+Feature B change
+<<<<<<<<<
+=========
+>>>>>>>>>
